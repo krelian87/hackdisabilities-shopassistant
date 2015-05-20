@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ShopAssistant</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_recognition_only">RecognitionOnlyActivity</string>
+
+    <string name="finder_searching">Scanning...</string>
+    <string name="recognition_only_tap">Tap to scan</string>
+    <string name="recognition_only_toast_picture_error">Error trying to snap a photo.</string>
+    <string name="recognition_only_toast_nothing_found">Nothing found. Point at the reference image.</string>
+    <string name="launchers_reco_only">Recognition Single Mode</string>
+
+</resources>
